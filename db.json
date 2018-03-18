@@ -1,7 +1,7 @@
 {
-		"id": 87899,
-		"cardProgramID": "id1",
-		"businessID": "bid1",
-		"productType": "type1"
-		
-	}
+	"id": 87899,
+	"cardProgramID": "id1",
+	"businessID": "bid1",
+	"productType": "type1",
+	"corpProductType": "corpProType1"
+}
